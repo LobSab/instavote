@@ -1,5 +1,5 @@
 
-This is a sample voting app.
+
 
 
 Example Voting (Instavote) App
